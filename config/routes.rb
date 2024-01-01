@@ -12,7 +12,7 @@ Rails.application.routes.draw do
     registrations: 'users/registrations'
   }
 
-  # Cambia el nombre de la ruta personalizada a 'signup_page'
+  # Cambia el nombre de la ruta personalizada a, 'signup_page'
   get '/signup', to: 'users/registrations#new', as: 'signup_page'
 
   # Otras rutas...
