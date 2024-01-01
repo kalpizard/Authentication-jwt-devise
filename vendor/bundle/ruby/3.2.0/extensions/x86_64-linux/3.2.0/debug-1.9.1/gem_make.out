@@ -1,0 +1,19 @@
+current directory: /mnt/c/Users/Dell/Desktop/jwt-devise/rails-api/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+/home/kalpizard/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/Dell/Desktop/jwt-devise/rails-api/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231231-617-x9krcp sitelibdir\=./.gem.20231231-617-x9krcp clean
+
+current directory: /mnt/c/Users/Dell/Desktop/jwt-devise/rails-api/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231231-617-x9krcp sitelibdir\=./.gem.20231231-617-x9krcp
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /mnt/c/Users/Dell/Desktop/jwt-devise/rails-api/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231231-617-x9krcp sitelibdir\=./.gem.20231231-617-x9krcp install
+/usr/bin/install -m 0755 debug.so ./.gem.20231231-617-x9krcp/debug
+
+current directory: /mnt/c/Users/Dell/Desktop/jwt-devise/rails-api/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231231-617-x9krcp sitelibdir\=./.gem.20231231-617-x9krcp clean
